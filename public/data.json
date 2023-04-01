@@ -1,0 +1,42 @@
+[
+  {
+    "id": "01",
+    "img": "https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "authorImg": "https://img.freepik.com/free-icon/user_318-174218.jpg?size=626&ext=jpg&ga=GA1.1.627686309.1680199718&semt=ais",
+    "authorName": "Mr. Jubair",
+    "date": "Feb 14 (5 Days Ago)",
+    "time": "10",
+    "title": "How to Become a Mastering in Programming.  ",
+    "hashtag": "#pro #master #coding"
+  },
+  {
+    "id": "02",
+    "img": "https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "authorImg": "https://img.freepik.com/free-icon/user_318-414374.jpg?size=626&ext=jpg&ga=GA1.1.627686309.1680199718&semt=ais",
+    "authorName": "Mr. Iftakhar",
+    "date": "Mar 18 (4 Days Ago)",
+    "time": "19",
+    "title": "How to become a pro MERN Stack Developer within 6 Months",
+    "hashtag": "#boss #programming"
+  },
+  {
+    "id": "03",
+    "img": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "authorImg": "https://img.freepik.com/free-icon/user_318-536880.jpg?size=626&ext=jpg&ga=GA1.1.627686309.1680199718&semt=ais",
+    "authorName": "Mina Mostofa",
+    "date": "Feb 25 (3 Days Ago)",
+    "time": "16",
+    "title": "How to get your first job as a self-taught programmer",
+    "hashtag": "#noob #javascript #python"
+  },
+  {
+    "id": "04",
+    "img": "https://img.freepik.com/free-photo/programmer-scanning-screen-his-smartwatch-with-smartphone-camera_1098-18710.jpg?size=626&ext=jpg&ga=GA1.2.627686309.1680199718&semt=sph",
+    "authorImg": "https://img.freepik.com/free-icon/user_318-390815.jpg?size=626&ext=jpg&ga=GA1.1.627686309.1680199718&semt=ais",
+    "authorName": "Mrs. Tanisha",
+    "date": "Apr 2 (2 Days Ago)",
+    "time": "29",
+    "title": "Think in a Dart Programming World Way",
+    "hashtag": "#pro  #programming  #begginers"
+  }
+]
